@@ -30,7 +30,9 @@ super chip_, we're seeing every day more cores integrating a single CPU.
 
 ## The free lunch is over!
 
+For several decades, developers enjoyed free performance gains in their
+application even though they did not make any code improvement. The primarily
+reason for that is that CPU manufacturers were delivering faster components
+each year.
 
-
-
-
+[Draft]
