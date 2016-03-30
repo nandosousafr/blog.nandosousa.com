@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Nando is a programmmer based on Florianópolis Brazil.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Ruby Senior developer, Golang and Exilir groker.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+## Contact info
+
+* nandosousafr at gmail.com
+* [nandosousafr](http://twitter.com/nandosousafr)
+
+## Community activity
+
+* Co-Organizer of the [Floripa Gopher's Meetup](http://www.meetup.com/Floripa-Gophers/).
+* Co-Organizer of the [FloripaOnRails Meetup](http://www.meetup.com/Floripa-on-Rails/).
+
