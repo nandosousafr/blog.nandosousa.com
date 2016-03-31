@@ -14,25 +14,43 @@ aware of.
 
 ## Why this is a hot topic?
 
-Simple answer: __Multicore crisis__. In 1965, Gordon Moore (Co-founder of
-Intel) quote the following:
+Short answer: __Multicore crisis__.
+
+In 1965, Gordon Moore (Co-founder of Intel) quote the following:
 
 > The number of transistors in a dense integrated circuit double approximately
 > every two years. Wikipedia
 
-This observation became known as the famous __Moore's Law__. But, recently we're
-experiencing a __natural__ reducing of pace. We cannot make  things (in
-this case transistors) smaller forever. Beside that fact, single super fast chips
+It became known as the famous __Moore's Law__. But, recently we're
+experiencing a __natural__ reducing of pace of this observation. We cannot make  things (in
+this case transistors) smaller forever. Beyond that fact, single super fast chips
 increase problems with __heat__ and __energy consumption__.
 
-Conclusion, the __Moore's Law__ continues to deliver, but instead as a _single
-super chip_, we're seeing every day more cores integrating a single CPU.
+So, the __Moore's Law__ continues to deliver, but instead as a _single
+super chip_, we're seeing every day more and more cores integrating a single CPU.
 
 ## The free lunch is over!
 
 For several decades, developers enjoyed free performance gains in their
-application even though they did not make any code improvement. The primarily
+application even they did not make any code improvement. The primarily
 reason for that is that CPU manufacturers were delivering faster components
-each year.
+along the way. But now, if you want to take fully advantage of your machine performance, you need to
+exploit parallelism!
+
+## Concurrency vs Parallelism
+
+They're not the same thing, but if you archive
+concurrency you can easily archieve parallelism.
+
+As Roby Pike says:
+
+> __Concurrency__ is about dealing with lots of things at once.
+> __Parallelism__ is about doing lots of things at once.
+
+Concurrency is programming as the __composition__ of idependently executing
+processes. You can think concurrency as the way you struct your program. Take
+this ruby code as example:
+
+{% gist 4349bb3de396edf3cbd16236e5a2d4f3 concurrent_example.rb %}
 
 [Draft]
