@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yet another introduction to concurrency"
+title:  "[draft] Yet another introduction to concurrency"
 date:   2016-03-29 12:28:00
 categories: concurrency
 ---
@@ -47,10 +47,14 @@ As Roby Pike says:
 > __Concurrency__ is about dealing with lots of things at once.
 > __Parallelism__ is about doing lots of things at once.
 
-Concurrency is programming as the __composition__ of idependently executing
-processes. You can think concurrency as the way you struct your program. Take
-this ruby code as example:
+Take this method as example:
+{% gist 4349bb3de396edf3cbd16236e5a2d4f3 short_concurrent_example.rb %}
+[Full code example here](https://gist.github.com/nandosousafr/4349bb3de396edf3cbd16236e5a2d4f3#file-concurrent_example-rb)
 
-{% gist 4349bb3de396edf3cbd16236e5a2d4f3 concurrent_example.rb %}
+At __line 2__ we're firing futures (executing processes idependently), and at
+__line 5__ making the composition of results. So, Concurrency is
+programming as the __composition__ of independently executing processes.
 
-[Draft]
+Parallelism is programming as the __simultaneous__ execution of (possibly
+related) computations. [improve it].
+
