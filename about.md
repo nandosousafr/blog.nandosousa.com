@@ -17,6 +17,6 @@ Ruby Senior developer, Golang and Exilir groker.
 
 ## Community activity
 
+* Organizer of the [Elixir \|> SC Meetup](http://www.meetup.com/elixirsc/).
 * Co-Organizer of the [Floripa Gopher's Meetup](http://www.meetup.com/Floripa-Gophers/).
 * Co-Organizer of the [FloripaOnRails Meetup](http://www.meetup.com/Floripa-on-Rails/).
-
