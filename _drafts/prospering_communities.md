@@ -5,33 +5,27 @@ date: 2016-04-01
 categories: community
 ---
 
-I've started coding professionally in 2011, right after that was introduced to
-Ruby World. Better than that, I was introduced to the Ruby community, maybe
-the most revolutionary things that Ruby gave to us.
+Back in 2014, I was living in Santarém-Brazil, a small city in the less
+technologicaly developed region of Brazil: The North. The tech scenario was
+composed by 1 startup, a couple PHP developers, maybe 2 designers, six
+universities and a lot of students with focus on academics.
 
-At that time was living at Santarém-Brazil, on it, I was the only Ruby Developer
-at that moment. But I didn't felt alone at all, I felt part of something, part
-of an ideology. An ideology to write better software.
+At the time, I had my own _small_ company focused on delivering MVP software for baby
+startups, with a team of 2 developers (including me), 1 designer and 1 product manager.
+After a few months, we noticed that we needed to build a local community in
+order to bring more people to our context and teach then about technologies that
+were using on ours projects, like: Ruby On Rails, AngularJS, Laravel, Ansible and so on.
 
-So what we can learn from Ruby Community in terms of building and prospering
-local communities?
+Not only teach then, but learn from then and provide an enviroment that would
+facilitate networking, opportunities and new businesses. So, I founded
+DevInSanta.
 
-## Open the door for newcomers
+After that, I started and helped a few communities (FloripaOnRails,
+GophersFloripa). So, in this article I'll share what I've been learning in this
+endeavor so far.
 
-Became a RubyDeveloper is easy, there are a bunch of good content available for
-free. Ask a RubyDeveloper the following questions:
+## Don't give up too soon
 
-* Do you know RubyTapas?
-* Do you know tryruby.org?
-* Did you make RailsForZombies (free course)?
-* Did you have ever watched an episode of RailsCasts by @ryanbates?
+## The community is not yours
 
-I'm pretty sure that for almost everyone the answer of all these is __yes__.
-In these days, all languages have a RailsCasts like and a tryruby.org like.
-These initiatives brutally reduce newcomer's learning curve.
 
-So, start doing the same thing whatever be the goal of your meetup, study
-group or whatever. Create content that breaks the __initial barier__.
-
-If you're leading a meetup and you're organizing a mini-conf, make sure you have
-all level of contents, especially for novices.
