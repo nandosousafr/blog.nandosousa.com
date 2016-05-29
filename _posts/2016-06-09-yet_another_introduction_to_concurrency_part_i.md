@@ -14,7 +14,7 @@ was happening.
 
 After some time studying it, I noticed that some of the developers (even
 seniors) that I Know had the same lack of knowledge in this subject as I had.
-For this reason, I’m sharing this article with you.
+For this reason, I wrote this article as an attempt to fill this gap.
 
 ## Why is everyone talking about it?
 
