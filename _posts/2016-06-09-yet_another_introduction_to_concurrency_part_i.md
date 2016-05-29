@@ -5,7 +5,7 @@ date: 2016-06-09
 categories: software
 ---
 
-TL DR; I’ve started to professionally work with programming in 2011. One year
+I’ve started to professionally work with programming in 2011. One year
 later, I discovered the Ruby language and fell in love with it. Since then I
 worked with a plenty of projects and never worried about concurrency. In the
 meanwhile, there were some discussions on how Ruby is inefficient in terms of
