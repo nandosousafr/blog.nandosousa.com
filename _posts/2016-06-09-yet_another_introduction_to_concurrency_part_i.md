@@ -34,7 +34,7 @@ In order to really understand the __Multicore Crisis__, we need to go back to
 But what it means? In an updated version, it means that: _"The machine
 processing power tends to double every 18 months_". However, we're experiencing
 a slowdown in the pace of this observation due to problems like heat leakage
-and energy consumption. So, Instead of shipping doubled faster chips every 18
+and energy consumption. So, Instead of shipping 2x faster chips every 18
 months, the industry took another direction: _Multicores_.
 
 ### Multicore
@@ -47,17 +47,18 @@ exploit __parallelism__.
 
 ### Concurrency vs Parallelism
 
+You may say:
 > Parallelism? you're talking about concurrency, why did you mention
 > Parallelism? And they are the same thing, right?
 
-Actually, _concurrency_ and _parallelism_ are not the same. let's dive into a
+Actually, _concurrency_ and _parallelism_ are not the same. let's dive into it a
 little bit.
 
 Roby pike gave a brilliant [talk](https://www.youtube.com/watch?v=cN_DpYBzKso)
 about it. On it, he explains that parallelism is the simultaneous execution
 of things, possibly related, possibly not. And concurrency is programming as
 the __composition__ of independently executing processes. For languages that do
-not provide direct support for parallelism, you must to concurrently
+not provide direct support for parallelism, you must concurrently
 __structure__ your program in order to achieve parallelism.
 
 Take this code as example:
@@ -87,9 +88,9 @@ def execute_concurrently
 end
 {% endhighlight %}
 
-Take a look at line 18 up to 20, here's a `collect` block that is firing a
+Take a look at lines 18..20, here's a `collect` block that is firing a
 future for each item in `USERS` array, in other words, they are __processes
-being executed independently__. Now, look at line 21, here all the triggered
+being executed independently__. Now, look at line 21, here, all the triggered
 futures values are being collected, making the __composition of independently
 executing processes__.
 
@@ -103,5 +104,3 @@ Model (Threads, locks, and everything)__. Until then, check it out at following 
 - [[Book] Seven concurrent models in seven weeks](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks);
 - [[Talk] Everything You Know About the GIL](https://www.youtube.com/watch?v=dP4U1yI1WZ0);
 - [[Article] The free lunch is over!](www.gotw.ca/publications/concurrency-ddj.htm);
-
-
