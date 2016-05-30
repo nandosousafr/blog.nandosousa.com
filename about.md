@@ -6,9 +6,7 @@ permalink: /about/
 
 > __Kurumin__ means boy in tupi-guarani (South America's indian language).
 
-Nando is a programmmer based on Florianópolis Brazil.
-
-Ruby Senior developer, Golang and Exilir groker.
+I'm a programmmer based on Florianópolis Brazil.
 
 ## Contact info
 
