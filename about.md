@@ -20,3 +20,4 @@ Ruby Senior developer, Golang and Exilir groker.
 * Organizer of the [Elixir \|> SC Meetup](http://www.meetup.com/elixirsc/).
 * Co-Organizer of the [Floripa Gopher's Meetup](http://www.meetup.com/Floripa-Gophers/).
 * Co-Organizer of the [FloripaOnRails Meetup](http://www.meetup.com/Floripa-on-Rails/).
+* Ruby Track's Coordinator of [TDC Floripa - 2016](http://www.thedevelopersconference.com.br/tdc/2016/florianopolis/trilha-ruby)
