@@ -18,4 +18,5 @@ I'm a programmmer based on Florianópolis Brazil.
 * Organizer of the [Elixir \|> SC Meetup](http://www.meetup.com/elixirsc/).
 * Co-Organizer of the [Floripa Gopher's Meetup](http://www.meetup.com/Floripa-Gophers/).
 * Co-Organizer of the [FloripaOnRails Meetup](http://www.meetup.com/Floripa-on-Rails/).
-* Ruby Track's Coordinator of [TDC Floripa - 2016](http://www.thedevelopersconference.com.br/tdc/2016/florianopolis/trilha-ruby)
+* Ruby Track's Coordinator at [TDC Floripa - 2016](http://www.thedevelopersconference.com.br/tdc/2016/florianopolis/trilha-ruby)
+* Golang Track's Coordinator at [TDC São Paulo - 2016](http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-golang)
