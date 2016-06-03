@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(Part I) Yet another introduction to concurrency"
-date: 2016-06-09
+date: 2016-06-02
 categories: software
 ---
 
@@ -9,7 +9,7 @@ I've started to work professionally with programming in 2011. One year later, I
 have discovered the Ruby language and have fallen in love with it. Since then
 I've worked on a plenty of projects and have never worried about concurrency.
 Meanwhile, there have been some discussions on how Ruby is inefficient
-regarding concurrency. These discussions instigated me to dig into the topic to
+in terms of concurrency. These discussions instigated me to dig into the topic to
 understand what was happening.
 
 After some time studying it, I noticed that some of the developers (even
