@@ -67,30 +67,7 @@ achieve parallelism.
 
 Take this ruby code as example:
 
-{% highlight ruby linenos %}
-require 'concurrent'
-require 'httparty'
-
-USERS = [
-           'nandosousafr', 'jeanmantheussouto',
-           'thiesen', 'pcasaretto', 'hugoluchessi',
-           'jeanholderbaum', 'aureliosaraiva'
-        ]
-
-def get_followers_count(user)
-  endpoint_url = "http://api.github.com/users/#{user}/followers"
-  response = HTTParty.get(endpoint_url)
-  raise unless response.status == 200
-  response.count
-end
-
-def execute_concurrently
-  futures = USERS.collect do |user|
-    Concurrent::Future.execute { get_followers_count(user) }
-  end
-  futures.collect {|future| future.value }
-end
-{% endhighlight %}
+{% gist caf1687d2f6a5a7f81cdff32b763f617 example_a.rb %}
 
 Take a look at lines 18..20, here's a `collect` block that is firing a
 future for each item in `USERS` array, in other words, they are processes being
