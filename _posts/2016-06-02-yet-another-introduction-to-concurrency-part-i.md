@@ -50,6 +50,7 @@ parallelism.
 ### Concurrency vs Parallelism
 
 You may ask:
+
 > Parallelism? You're talking about concurrency, why did you mention
 > Parallelism? And they are the same thing, right?
 
