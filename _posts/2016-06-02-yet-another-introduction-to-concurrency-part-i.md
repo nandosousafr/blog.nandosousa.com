@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "(Part I) Yet another introduction to concurrency"
+title: "[Part I] Yet another introduction to concurrency"
 date: 2016-06-02
-categories: software
+categories: concurrency
 ---
 
 I've started to work professionally with programming in 2011. One year later, I
