@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Part I] Yet another introduction to concurrency"
+title: "Yet another introduction to concurrency - Part I"
 date: 2016-06-02
 categories: concurrency
 ---
