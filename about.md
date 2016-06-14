@@ -1,17 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Nando Sousa
+permalink: /nando-sousa/
 ---
 
 > __Kurumin__ means boy in tupi-guarani (South America's indian language).
 
-I'm a programmer based on Florianópolis Brazil.
+Hi! My name is Nando Sousa. I'm based in Florianópolis-Brazil, and I Work at
+Resultados Digitais as Software Developer.
 
-## Contact info
+## Info
 
-* nandosousafr at gmail.com
-* [nandosousafr](http://twitter.com/nandosousafr)
+* nandosousafr at gmail dot com
+* [Linkedin](https://br.linkedin.com/in/nandosousafr)
+* [Resume](http://bit.ly/1VWfiUE)
 
 ## Community activity
 
