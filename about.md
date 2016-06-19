@@ -11,7 +11,7 @@ Resultados Digitais as Software Developer.
 
 ## Info
 
-* nandosousafr at gmail dot com
+* nando at this domain.
 * [Linkedin](https://br.linkedin.com/in/nandosousafr)
 * [Resume](http://bit.ly/1VWfiUE)
 
