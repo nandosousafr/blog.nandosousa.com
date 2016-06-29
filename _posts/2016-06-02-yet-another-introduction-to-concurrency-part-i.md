@@ -86,4 +86,4 @@ Model (Threads, locks, and everything)__. Until then, check it out at following 
 
 - [[Book] Seven concurrent models in seven weeks](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks);
 - [[Talk] Everything You Know About the GIL](https://www.youtube.com/watch?v=dP4U1yI1WZ0);
-- [[Article] The free lunch is over!](www.gotw.ca/publications/concurrency-ddj.htm);
+- [[Article] The free lunch is over!](http://www.gotw.ca/publications/concurrency-ddj.htm);
