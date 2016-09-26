@@ -15,6 +15,10 @@ Resultados Digitais as Software Developer.
 * [Linkedin](https://br.linkedin.com/in/nandosousafr)
 * [Resume](http://bit.ly/1VWfiUE)
 
+## Talks
+
+* [Yet another introduction to concurrency](http://bit.ly/2cswCwu) - RubyconfBR 2016
+
 ## Community activity
 
 * Golang Track's Coordinator at [TDC São Paulo - 2016](http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-golang)
