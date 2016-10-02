@@ -2,7 +2,6 @@ require 'cgi'
 require 'digest/md5'
 require 'net/https'
 require 'uri'
-require 'pry'
 
 module Jekyll
   class GistTag < Liquid::Tag
@@ -16,7 +15,7 @@ module Jekyll
 
     def render(context)
       if parts = @text.match(/([\S]*) (.*)/)
-        
+
         gist, file = parts[1].strip, parts[2].strip
         script_url = script_url_for gist, file
         code       = get_cached_gist(gist, file) || get_gist_from_web(gist, file)
