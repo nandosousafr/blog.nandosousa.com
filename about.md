@@ -3,6 +3,7 @@ layout: page
 title: About Nando Sousa
 permalink: /nando-sousa/
 ---
+![Nando Sousa - Software Developer](/assets/avatar.jpg)
 
 > __Kurumin__ means boy in tupi-guarani (South America's indian language).
 
