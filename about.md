@@ -14,7 +14,6 @@ Resultados Digitais as Software Developer.
 
 * Email: nando at this domain.
 * [Linkedin](https://br.linkedin.com/in/nandosousafr)
-* [Resume](http://bit.ly/1VWfiUE)
 
 ## Talks
 
