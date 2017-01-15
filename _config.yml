@@ -4,10 +4,11 @@ email: nandosousafr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Brazilian, Software developer and Science Groker.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://kurum.in" # the base hostname & protocol for your site
+url: "https://nandosousafr.github.com" # the base hostname & protocol for your site
 twitter_username: nandosousafr
 github_username:  nandosousafr
 permalink: :categories/:title.html
-
+keep_files:
+  - categories
 # Build settings
 markdown: kramdown
