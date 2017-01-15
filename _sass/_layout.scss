@@ -198,7 +198,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 37px;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -238,6 +238,14 @@
 .post-categories {
   ul {
     margin-left: 0px;
-    li { display: inline; }
+    li {
+      background: #61378e;
+      display: inline;
+      margin-right: 10px;
+      padding: 5px;
+
+      a { color: white; }
+
+    }
   }
 }

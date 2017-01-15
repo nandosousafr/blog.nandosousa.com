@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://nandosousafr.github.com" # the base hostname & protocol for your site
 twitter_username: nandosousafr
 github_username:  nandosousafr
-permalink: :categories/:title.html
+permalink: :title.html
 keep_files:
   - categories
 # Build settings

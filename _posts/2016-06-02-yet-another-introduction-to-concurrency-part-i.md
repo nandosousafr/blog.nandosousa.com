@@ -2,7 +2,7 @@
 layout: post
 title: "Yet another introduction to concurrency - Part I"
 date: 2016-06-02
-categories: concurrency
+categories: concurrency computer-science
 ---
 
 I've started to work professionally with programming in 2011. One year later, I
