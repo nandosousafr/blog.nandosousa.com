@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About Nando Sousa
+title: About me
 permalink: /nando-sousa/
 ---
 ![Nando Sousa - Software Developer](/assets/avatar.jpg)
 
-> __Kurumin__ means boy in tupi-guarani (South America's indian language).
+Hi! My name is Nando Sousa. I'm based in Florianópolis-Brazil, and I Work for
+[Resultados Digitais](http://mathiasluz.com/en/resultados-digitais-great-place-to-work/)
+as Software Developer.
 
-Hi! My name is Nando Sousa. I'm based in Florianópolis-Brazil, and I Work at
-Resultados Digitais as Software Developer.
+## Contact info
 
-## Info
-
-* Email: nando at this domain.
+* Email: _nandosousafr at gmail dot com_
 * [Linkedin](https://br.linkedin.com/in/nandosousafr)
 
 ## Talks
